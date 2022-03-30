@@ -2,8 +2,11 @@ Jupyter Notebook available @ Thinkful_DAI_Cap3.ipynb
 
 
 ●	Analysis of stress-related messages and their relation to COVID-19 based on the Stress Annotated Dataset.
+
 ●	Various inferential statistical tests to determine any differences in overall stress and multiple factors before and after the start of the pandemic.
+
 ●	Tools: Python, Excel, PowerPoint
+
 ●	Statistics: Pearson’s Correlation, Student’s t-test, Bartlett’s test for co-variance, Kruskal-Wallis & post-hoc Dunn, and ANOVA & post-hoc Tukey HSD
 
 The COVID-19 pandemic resulted in a drastic change in the workforce worldwide. At least in the U.S., all sectors of the workforce experienced changes in the work environment, whether that change was working at home, reduction in employees, or changes in protocols. Dramatic changes in any sense could therefore lead to stress and responses to stress are highly individual. 
