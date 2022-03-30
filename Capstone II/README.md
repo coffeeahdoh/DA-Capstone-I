@@ -1,1 +1,1 @@
-
+Fuel economy is often a top deciding factor when one is considering buying a car. To determine if any real differences were made from the addition of alternative fuel technology, the fuel economy data from FuelEconomy.gov was used to determine the impact alternative fuel technology had on mileage. Any insights may be key points for online vendors or services to guide customers based on their fuel economy preferences.
